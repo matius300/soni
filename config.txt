@@ -107,7 +107,7 @@
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address" : "stratum+tcp://pool.etn.spacepools.org:1111",
+"pool_address" : "stratum+tcp://pool.etn.spacepools.org:3333",
 "wallet_address" : "etnjxQBqVUZWhYqEojxEyHXznRywCWu1UGB8bQZ1RbGZcKGZuSdBBQWfgeYqWeeTKdWaAiVh83qER4HemGELQ9v58meyiVFnLk",
 "pool_password" : "x",
 
